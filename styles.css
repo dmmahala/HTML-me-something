@@ -1,0 +1,72 @@
+
+html, body {
+    background-color: skyblue;
+}
+
+header {
+    background-image: url(https://img1.cgtrader.com/items/704281/f7fa790dd2/aurora-borealis-3d-model-blend.png);
+    color: #aaaadd;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#head {
+    text-align: center;
+}
+
+a {
+    text-align: left;
+    text-decoration: none;
+}
+
+a:link {
+    color: #aaaadd;
+}
+
+a:hover {
+    color: orange;
+}
+
+a:visited {
+    color: #37035f;
+}
+
+.title {
+    background-color: #37035f;
+    color: #ffffff;
+    font-family: Courier, monospace;
+    font-weight: 900;
+    text-align: center;
+}
+
+p {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1.2em;
+    font-weight: 600
+}
+
+div div {
+    border: 2px solid #6d4d12;
+    padding-top: 0px;
+    padding-left: 8px;
+    padding-right: 8px;
+    margin-left: 50px;
+    margin-right: 50px;
+    background: transparent;
+}
+
+#background-bg {
+
+}
+
+#eielson {
+
+}
+
+#weather {
+
+}
+
+#wilderness {
+
+}
+
